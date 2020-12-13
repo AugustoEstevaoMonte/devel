@@ -1,0 +1,803 @@
+a{
+    color: #4D4D4D;
+}
+
+body{
+    background-color:#EFEFEF;
+}
+
+.autor{
+    font-size: 12px;
+    position: relative;
+}
+
+.TituloObra{
+    font-size: 16px;
+    position: relative;
+    font-weight: bold;
+}
+
+.text_cuted{
+    position: relative;
+    text-decoration: line-through;
+    text-decoration-style: solid;
+    text-decoration-color: currentColor;
+}
+
+.text_buy{
+    position: relative;
+    font-weight: bolder;
+    font-size: 19px;
+}
+
+.btn{
+    padding-right: 60px;
+    padding-left: 60px;
+    position: relative;
+}
+
+.divisoria{
+    position: relative;
+    width: 100%;
+    background: white;
+    height: 480px;
+}
+
+
+.header{
+    width: 100%;
+    background: #4D4D4D;
+
+}
+#text_search{
+    margin-bottom: 90px;
+
+}
+
+.header_2{
+    width: 100%;
+    background: white;
+}
+
+.header_menu{
+    text-align: right;
+    top: 90px;
+
+}
+
+.header_menu ul li{
+display: inline;
+position: relative;
+margin-left: 130px;
+top: 10px;
+
+}
+
+.header_menu ul li a{
+   text-decoration: none;
+   font-weight: bolder;
+   text-transform: uppercase;
+   letter-spacing: .1em;
+   font-size: 13px;
+}
+
+.home:hover{
+    color:#B3A1A1;
+}
+
+.prod:hover{
+    color: #B3A1A1;
+}
+.sells:hover{
+    color: #B3A1A1;
+}
+.descont:hover{
+   color: #B3A1A1;
+}
+/*Fim da Manipulação do Header*/
+
+/*Manipulação de Imagens*/
+
+.img_header{
+    margin-top: 15px;
+}
+
+.img_lupa{
+    position: relative;
+    border: none;
+    top: 45px;
+    right: 90px;
+}
+
+
+.panel_animation{
+    width: 100%;
+    background: #999999;
+    height: 400px;
+
+}
+
+.panel_animation2{
+background: #4D4D4D;
+position: relative;
+width: 876.8px;
+height: 400px;
+mix-blend-mode: normal;
+}
+
+.img_book_clarice{
+    position: relative;
+    left: 60px;
+    top:40px;
+}
+
+.img_book_clarice2{
+    position: relative;
+    left: 100px;
+    top: 40px;
+
+}
+
+.img_book_clarice3{
+    position: relative;
+    left: 140px;
+    top: 40px;
+
+}
+
+.elipse_imagem{
+    position: relative;
+    top: 375px;
+    right: 560px;
+}
+
+.elipse_imagem2{
+    position: relative;
+    top: 375px;
+    right: 531px;
+}
+.elipse_imagem3{
+    position: relative;
+    top: 351px;
+    right: 462px;
+}
+.elipse_imagem4{
+    position: relative;
+    top: 351px;
+    right: 430px;
+}
+
+
+
+.panel_badges{
+    width: 100%;
+    background:#708C78;
+    height: 130px;
+
+}
+
+.img_shield{
+    position: relative;
+    left: 150px;
+    top: 25px;
+}
+
+.text_shield{
+    position: relative;
+    left: 120px;
+    top: 25px;
+    font-weight: bold;
+    font-size: 16px;
+}
+.img_credit{
+    position: relative;
+    left: 270px;
+    top: 25px; 
+}
+
+.text_credit{
+    position: relative;
+    left: 254px;
+    top: 25px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.img_warranty{
+    position: relative;
+    left: 400px;
+    top: 25px;
+}
+
+.text_warranty{
+    position: relative;
+    left: 370px;
+    top: 25px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+
+.text_livros{
+   font-size: 24px;
+   font-weight: bold;
+   position: relative;
+   left: 410px;
+   top: 90px;
+
+}
+
+.divisoria{
+    top: 190px;
+}
+
+.img_sertao{
+    position: relative;
+    left: 64px;
+    top: 30px;
+}
+
+.text_sertao{
+    top: 40px;
+    left: 60px;
+}
+.text_sertao2{
+    top: 20px;
+    left: 100px;
+}
+.text_sertao3{
+    font-size: 14px;
+    top: 55px;
+    left: 6px;
+}
+
+.text_sertao4{
+    top: 95px;
+    right:90px;
+
+}
+
+.division_item2{
+    left: 0px;
+    right: 900px;
+}
+.img_principe{
+    position: relative;
+    left: 64px;
+    top: 30px;
+}
+.text_principe{
+    top: 40px;
+    left: 75px;
+}
+
+.text_principe2{
+    top: 30px;
+    left: 75px;
+}
+
+.text_principe3{
+    top: 70px;
+    right: 45px;
+}
+
+.text_principe4{
+    top: 76px;
+    font-size: 20px;
+    white-space: nowrap;
+    left: 90px;
+}
+
+.img_divina{
+    position: relative;
+    left: 64px;
+    top: 30px;
+}
+
+.text_divina{
+    left: 78px;
+    top: 40px;
+}
+
+.text_divina2{
+    left: 106px;
+    top: 20px;
+}
+
+.text_divina3{
+    left: 16px;
+    top: 60px;
+}
+.text_divina4{
+    right: 90px;
+    top: 94px;
+}
+
+.elipse_1{
+    position: relative;
+    left: 270px;
+    bottom: 190px;
+}
+
+.vector_1{
+    position: relative;
+    left: 234px;
+    bottom: 206px;
+}
+
+.elipse_2{
+    position: relative;
+    bottom: 185px;
+    right: 30px;
+}
+.vector_2{
+    position: relative;
+    bottom: 200px;
+    right: 70px;
+}
+
+.text_livro2{
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+    left: 410px;
+    top: 270px;
+}
+
+.btn_sertao{
+    top: 110px;
+    left: 60px;
+    z-index: 2;
+}
+
+.btn_sertao:hover{
+    color:#B3A1A1;
+}
+
+.btn_principe{
+    top:85px;
+    left:60px;
+    z-index: 2;
+}
+
+.btn_principe:hover{
+    color: #B3A1A1;
+}
+.btn_divina{
+    top: 110px;
+    left: 60px;
+    z-index: 2;
+}
+
+.btn_divina:hover{
+    color: #B3A1A1;
+}
+
+
+.division_item4{
+    margin-top: 150px;
+    position: relative;
+}
+
+.img_sherlock{
+    position: relative;
+    left: 70px;
+    top: 30px;
+}
+
+.text_sherlock{
+   top: 50px;
+   left: 87px;
+
+}
+
+.text_sherlock2{
+    top: 35px;
+    left: 87px;
+}
+
+.text_sherlock3{
+
+    top: 70px;
+    right: 20px;
+}
+
+.text_sherlock4{
+    top:80px;
+    left: 100px;
+    white-space: nowrap;
+}
+
+.division_item5{
+    position: relative;
+    margin-top:150px;
+}
+
+.img_harry{
+    position: relative;
+    top: 30px;
+    left: 70px;
+}
+
+.text_harry{
+    top: 50px;
+    left:106px;
+}
+
+.text_harry2{
+    top: 35px;
+    left: 120px;
+}
+.text_harry3{
+    top: 70px;
+    left: 44px;
+}
+
+.text_harry4{
+    top:107px;
+    right: 60px;
+}
+.division_item6{
+    position: relative;
+    margin-top: 150px;
+}
+.img_alice{
+    position: relative;
+    left: 70px;
+    top: 30px;
+}
+
+.text_alice{
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.text_alice2{
+    position: relative;
+    top: 35px;
+    left: 116px;
+}
+
+.text_alice3{
+    position: relative;
+    top:70px;
+    left: 36px;
+}
+
+.text_alice4{
+    position: relative;
+    top: 107px;
+    right: 70px;
+}
+
+.elipse_3{
+    position: relative;
+    bottom: 185px;
+    right: 30px;
+}
+
+.vector_3{
+    position: relative;
+    bottom: 200px;
+    right: 70px;
+}
+
+.elipse_4{
+    position: relative;
+    left: 250px;
+    bottom: 206px;
+}
+
+.vector_4{
+    position: relative;
+    left: 290px;
+    bottom: 220px;
+    z-index:2;
+}
+
+.btn_sherlock{
+    top:120px;
+    right: 45px;
+    z-index: 2;
+}
+
+.btn_sherlock:hover{
+    color: #B3A1A1;
+}
+
+.btn_harry{
+    top: 120px;
+    left: 60px;
+    z-index: 2;
+}
+.btn_harry:hover{
+    color: #B3A1A1;
+}
+
+.btn_alice{
+    top: 120px;
+    left: 65px;
+    z-index: 2;
+}
+
+.btn_alice:hover{
+    color: #B3A1A1;
+}
+
+.text_livro3{
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+    top: 300px;
+    left:405px;
+}
+
+.division_item7{
+    position: relative;
+    margin-top: 200px;
+}
+
+.img_malorie{
+    position: relative;
+    left: 70px;
+    top: 30px;
+}
+
+.text_malorie{
+    position: relative;
+    top: 50px;
+    left: 120px;
+}
+
+.text_malorie2{
+    position: relative;
+    top: 35px;
+    left: 106px;
+
+}
+.text_malorie3{
+    position: relative;
+    top: 70px;
+    left: 20px;
+}
+
+.text_malorie4{
+    position: relative;
+    top: 110px;
+    right: 80px;
+}
+
+.division_item8{
+    margin-top: 200px;
+}
+
+.img_sangue{
+    position: relative;
+    left: 70px;
+    top: 30px;
+}
+.text_sangue{
+    position: relative;
+    top: 50px;
+    left: 100px;
+
+}
+
+.text_sangue2{
+    position: relative;
+    top: 35px;
+    left: 106px;
+}
+
+.text_sangue3{
+    position: relative;
+    top: 70px;
+    left: 25px;
+}
+
+.text_sangue4{
+    position: relative;
+    top: 110px;
+    right: 80px;
+
+}
+
+.division_item9{
+    margin-top: 200px;
+
+}
+
+.img_irmaos{
+    position: relative;
+    left: 70px;
+    top: 30px;
+}
+
+.text_irmaos{
+    top: 50px;
+    left: 96px;
+}
+
+.text_irmaos2{
+    position: relative;
+    top: 35px;
+    left: 116px;
+}
+.text_irmaos3{
+    position: relative;
+    top: 70px;
+    left: 30px;
+}
+
+.text_irmaos4{
+    position: relative;
+    top: 110px;
+    right: 70px;
+}
+
+.elipse_5{
+    position: relative;
+    left: 270px;
+    bottom: 206px;
+}
+
+.vector_5{
+    position: relative;
+    left: 235px;
+    bottom: 223px;
+}
+
+.elipse_6{
+    position: relative;
+    bottom: 200px;
+    right: 30px;
+}
+
+.vector_6{
+    position: relative;
+    bottom: 215px;
+    right: 70px;
+}
+
+.btn_malorie{
+    top: 120px;
+    left: 64px;
+}
+
+.btn_malorie:hover{
+    color:#B3A1A1;
+}
+
+.btn_sangue{
+    top: 120px;
+    left: 64px;
+}
+
+.btn_sangue:hover{
+    color:#B3A1A1;
+}
+
+.btn_irmaos{
+    top: 120px;
+    left: 64px;
+}
+.btn_irmaos:hover{
+    color:#B3A1A1;
+}
+
+
+.footer_separator{
+    width: 100%;
+    background: #83A38C;
+    height: 100px;
+    top: 290px;
+    position: relative;
+}
+
+.footer_separator2{
+    position: relative;
+    width: 100%;
+    background:  #4D4D4D;
+    height: 570px;
+    top: 290px;
+}
+
+
+.label_email{
+    position: relative;
+    font-size: 16px;
+    color: white;
+    top: 20px;
+    left:470px;
+}
+
+.input_email{
+   margin-left: 470px;
+
+}
+
+.label_razao{
+    position: relative;
+    font-size: 16px;
+    color: white;
+    top: 140px;
+    right:24px;
+}
+
+.select_razao{
+    right: 25px;
+    position: relative;
+    top: 120px;
+}
+
+.text_message{
+    position: relative;
+    right:520px;
+    top: 260px;
+    font-size: 16px;
+    color: white;
+}
+
+.input_message{
+    position: relative;
+    right: 520px;
+    top: 250px;
+    height: 130px;
+}
+
+.button_submit{
+    position: relative;
+    right: 1020px;
+    top: 500px;
+    width: 100%;
+    
+
+}
+
+.img_endereco_king{
+    position: relative;
+    left: 1000px;
+    bottom: 210px;
+}
+
+.text_mapa{
+    position: relative;
+    font-size: 24px;
+    color: white;
+    top: 50px;
+    left: 176px;
+    font-weight: bold;
+}
+
+.text_mapa2{
+    position: relative;
+    font-size: 16px;
+    color: white;
+    top: 45px;
+    left: 130px;
+
+}
+
+.text_mapa3{
+    position: relative;
+    font-size: 16px;
+    color: white;
+    top: 25px;
+    left: 160px;
+}
+
+.text_mapa4{
+    position: relative;
+    font-size: 16px;
+    color: white;
+    top: 5px;
+    left: 130px;
+}
+
+.barra_mapa{
+    position: relative;
+    top: 30px;
+    left: 123px;
+
+}
